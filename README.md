@@ -1,5 +1,5 @@
 # Histroden Site
-Histroden is a dummy HTML,CSS template made just for fun.
+Histroden is a dummy HTML,CSS template made just for fun and learning.
 
 ## Installation
 Just download and start in any of your Editor.
